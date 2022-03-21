@@ -12,5 +12,9 @@
 
 
 
-left off at https://youtu.be/V4h7-hR_WME?t=420
+### things to add
+- like
+- like count
+- retweeet
+- ...
 
