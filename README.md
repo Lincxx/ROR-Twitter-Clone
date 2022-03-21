@@ -11,3 +11,6 @@
 - command I had to use - bundle exec guard init livereload
 
 
+
+left off at https://youtu.be/V4h7-hR_WME?t=420
+
