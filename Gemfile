@@ -27,6 +27,7 @@ gem 'jbuilder', '~> 2.7'
 
 gem 'bulma-rails', '~> 0.9.3'
 gem 'simple_form', '~> 5.1'
+gem 'gravatar_image_tag'
 gem 'devise', '~> 4.8', '>= 4.8.1'
 
 # Reduces boot times through caching; required in config/boot.rb
